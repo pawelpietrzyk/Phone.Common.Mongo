@@ -1,0 +1,4 @@
+C:\Repo\Common.Mongo\Bin\Debug\Common.Mongo.dll
+C:\Repo\Common.Mongo\Bin\Debug\Common.Mongo.pdb
+C:\Repo\Common.Mongo\obj\Debug\Common.Mongo.dll
+C:\Repo\Common.Mongo\obj\Debug\Common.Mongo.pdb
